@@ -33,6 +33,7 @@ This project simulates a real online assessment platform where users can registe
 - Question Navigation
 - Question Palette
 - Previous / Next Navigation
+- Question
 
 ---
 
