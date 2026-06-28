@@ -51,7 +51,7 @@ Users can:
 
 and their selected answers will still remain saved.
 
----
+----
 
 ## Quiz Timer
 
