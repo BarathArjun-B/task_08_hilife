@@ -10,7 +10,7 @@ A responsive Online Quiz Management System developed using:
 
 This project simulates a real online assessment platform where users can register, login, take quizzes, track progress, and view results.
 
------------------=
+-----------------
 # Features
 
 ## User Authentication
